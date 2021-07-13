@@ -1,4 +1,7 @@
 # bergamot-models
+
+**This repo was moved to https://github.com/mozilla/firefox-translations-models**
+
 Repo to host Bergamot models
 
 `prod` - models that are uploaded to GCS and available to use in `https://github.com/mozilla-extensions/firefox-translations`
